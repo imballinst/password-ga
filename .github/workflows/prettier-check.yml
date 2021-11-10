@@ -1,5 +1,5 @@
 name: Validate Code Formatting
-on: [push, pull_request]
+on: [push]
 jobs:
   validate-code-formatting:
     runs-on: ubuntu-latest
